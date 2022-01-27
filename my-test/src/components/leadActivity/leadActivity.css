@@ -1,0 +1,29 @@
+.steps {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.circle {
+    height: 15px;
+    width: 15px;
+    border: 4px solid gold;
+    border-radius: 50%;
+}
+
+.line {
+    background: #ebedf3;
+    height: 40px;
+    width: 3px;
+}
+
+.activity button {
+    background: #ebedf3;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+}
+
+.activity img {
+    width: 18px;
+}

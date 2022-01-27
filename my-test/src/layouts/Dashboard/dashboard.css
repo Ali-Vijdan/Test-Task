@@ -1,0 +1,52 @@
+.dashboard {
+    background: #f4f5f7;
+    padding: 30px 0px;
+}
+
+.worldMap {
+    padding: 25px;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.worldMap .map {
+    height: 66.5vh;
+    display: flex;
+    align-items: center;
+}
+
+.worldMap img {
+    width: 100%;
+}
+
+.leadActivity {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.leadActivity h5 {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.leadActivity .subTopc {
+    color: #c2bdc4;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.pipelines h5 {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.pipelines .subTopc {
+    color: #c2bdc4;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.chartImg {
+    width: 100%;
+}
